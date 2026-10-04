@@ -1,3 +1,5 @@
+TP 4 : Héritage avec Hibernate - Stratégies de Mapping
+
 <img width="1366" height="473" alt="Screenshot 2026-10-03 210313" src="https://github.com/user-attachments/assets/6d7db78f-ddcf-4c3f-9722-c2fbebe79b19" />
 <img width="1373" height="481" alt="Screenshot 2026-10-03 210252" src="https://github.com/user-attachments/assets/da9afc5c-db11-4ef6-b4db-6ee43ea7e0a6" />
 <img width="673" height="480" alt="Screenshot 2026-10-03 210227" src="https://github.com/user-attachments/assets/7f5dd4cd-501b-4a7d-bd9e-bd0b3123f665" />
